@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="JDA_3.3.1_284_withDependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Film A regarder/spigot.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../JDA-3.3.1_286-withDependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../Film A regarder/spigot.jar!/" />
+    </SOURCES>
+  </library>
+</component>

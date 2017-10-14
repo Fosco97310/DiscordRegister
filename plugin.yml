@@ -1,0 +1,6 @@
+name: DiscordRegister
+author: Fosco97310
+version: 1.0.0
+main: fr.fosco.DiscordRegister.Main
+commands:
+  dd:

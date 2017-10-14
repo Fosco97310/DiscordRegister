@@ -1,0 +1,18 @@
+token: "MzYzNzU0OTI5OTc1NzIxOTg1.DMK4EA.2QwC0OjtyD6MYC59yGzzuINnjh0"
+help:
+  - "&c/bb register *DiscordName*"
+  - "&c/bb login *SecretCode*"
+  - "&c/bb unregister"
+wrongcode: "§cBad code"
+login: "&cYou are not connected"
+register: "&cYou registered under the name of %name%, you have to confirm this person is you, check your discord dm"
+havent_code: "&cYou can not have a code if you are not registered"
+unexist_account: "&cYour account isn't on the discord"
+message_code: "&cYou need to look the secret code in your dm"
+can_register: "&cYou can link your account to discord to get a secret code ! by typing the command /dd register Fosco#7871 for example"
+#############################################################################################################################################
+title_confirm: "Confirm"
+msg_confirm: "You are %name% ? type !accept to confirm"
+title_code: "Secret Code"
+#############################################################################################################################################
+Users:
